@@ -21,19 +21,19 @@ public class Bio {
 }
 
 public class Stack {
-    String[] languages   = {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "Shell", "Python", "C#"}
-    String[] databases   = {"Firebase", "MongoDB", "Amazon DynamoDB"}
-    String[] misc        = {"Linux", "Git", "Android", "iOS", "HTML/CSS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"}
-    String[] ongoing     = {"Kotlin"}
+    String[] languages   = {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "Shell", "Python", "C#"};
+    String[] databases   = {"Firebase", "MongoDB", "Amazon DynamoDB"};
+    String[] misc        = {"Linux", "Git", "Android", "iOS", "HTML/CSS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
+    String[] ongoing     = {"Kotlin"};
 }
 
 public class Social {
-    String github        = "https://github.com/saivittalb"
-    String twitter       = "https://twitter.com/saivittalb"
-    String youtube       = "https://youtube.com/saivittalb"
-    String linkedin      = "https://www.linkedin.com/in/saivittalb"
-    String instagram     = "https://www.instagram.com/saivittalb/"
-    String medium        = "https://medium.com/@saivittalb"
+    String github        = "https://github.com/saivittalb";
+    String twitter       = "https://twitter.com/saivittalb";
+    String youtube       = "https://youtube.com/saivittalb";
+    String linkedin      = "https://www.linkedin.com/in/saivittalb";
+    String instagram     = "https://www.instagram.com/saivittalb/";
+    String medium        = "https://medium.com/@saivittalb";
 }
 ```
 
