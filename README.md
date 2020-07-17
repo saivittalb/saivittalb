@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://saivittalb.com" target="_blank"><img src="https://img.shields.io/badge/Website--_.svg?style=social&logo=website" alt="Website"></a>
-	<a href="https://github.com/saivittalb" target="_blank"><img src="https://img.shields.io/github/followers/saivittalb.svg?label=GitHub&style=social&logo=github" alt="GitHub"></a>
-	<a href="https://twitter.com/saivittalb" target="_blank"><img src="https://img.shields.io/twitter/follow/saivittalb?label=Twitter&style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://saivittalb.com#newsletter" target="_blank"><img src="https://img.shields.io/badge/Newsletter--_.svg?style=social&logo=website" alt="Newsletter"></a>
+  <a href="https://github.com/saivittalb" target="_blank"><img src="https://img.shields.io/github/followers/saivittalb.svg?label=GitHub&style=social&logo=github" alt="GitHub"></a>
+  <a href="https://twitter.com/saivittalb" target="_blank"><img src="https://img.shields.io/twitter/follow/saivittalb?label=Twitter&style=social&logo=twitter" alt="Twitter"></a>
   <a href="https://youtube.com/saivittalb" target="_blank"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
   <a href="https://www.linkedin.com/in/saivittalb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://instagram.com/saivittalb" target="_blank"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
