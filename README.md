@@ -21,9 +21,9 @@ public class Bio {
 }
 
 public class Stack {
-    String[] languages   = {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "Shell", "Python", "C#"};
-    String[] databases   = {"Firebase", "MongoDB", "Amazon DynamoDB"};
-    String[] misc        = {"Linux", "Git", "Android", "iOS", "HTML/CSS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
+    String[] languages   = {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS", "Python", "C#"};
+    String[] databases   = {"Firebase"};
+    String[] misc        = {"macOS", "Linux", "Git", "Android", "iOS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
     String[] ongoing     = {"Kotlin"};
 }
 
