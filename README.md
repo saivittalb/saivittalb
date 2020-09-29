@@ -14,9 +14,9 @@
 import java.profile.*;
 
 public class Bio {
-    String name          = "Sai Vittal B";
-    String designation   = "Founder and CEO";
-    String company       = "Swattle";
+    String name          = "Sai Vittal Battula";
+    String[] designation = {"Founder and CEO", "Co-founder"};
+    String[] company     = {"Swattle", "MergeURL"};
     String base          = "Hyderabad, India";
 }
 
