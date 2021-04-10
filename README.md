@@ -6,7 +6,6 @@
   <a href="https://youtube.com/saivittalb"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
   <a href="https://www.linkedin.com/in/saivittalb"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://instagram.com/saivittalb"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-  <a href="https://medium.com/@saivittalb"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
   <a href="https://www.buymeacoffee.com/saivittalb"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
@@ -14,26 +13,25 @@
 import java.profile.*;
 
 public class Bio {
-    String name          = "Sai Vittal Battula";
-    String[] designations = {"Founder", "Co-founder"};
-    String[] companies     = {"Swattle", "MergeURL"};
-    String base          = "Hyderabad, India";
+    String name           =   "Sai Vittal Battula";
+    String[] designations =   {"Founder", "Co-founder"};
+    String[] companies    =   {"Swattle", "MergeURL"};
+    String base           =   "Hyderabad, India";
 }
 
 public class Stack {
-    String[] languages   = {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS", "Python", "C#"};
-    String[] databases   = {"Firebase"};
-    String[] misc        = {"macOS", "Linux", "Git", "Android", "iOS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
-    String[] ongoing     = {"Kotlin"};
+    String[] languages    =   {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS", "Python", "C#"};
+    String[] databases    =   {"Firebase"};
+    String[] misc         =   {"macOS", "Linux", "Git", "Android", "iOS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
+    String[] ongoing      =   {"Kotlin"};
 }
 
 public class Social {
-    String github        = "https://github.com/saivittalb";
-    String twitter       = "https://twitter.com/saivittalb";
-    String youtube       = "https://youtube.com/saivittalb";
-    String linkedin      = "https://www.linkedin.com/in/saivittalb";
-    String instagram     = "https://www.instagram.com/saivittalb/";
-    String medium        = "https://medium.com/@saivittalb";
+    String github         =   "https://github.com/saivittalb";
+    String twitter        =   "https://twitter.com/saivittalb";
+    String youtube        =   "https://youtube.com/saivittalb";
+    String linkedin       =   "https://www.linkedin.com/in/saivittalb";
+    String instagram      =   "https://www.instagram.com/saivittalb/";
 }
 ```
 
