@@ -14,22 +14,23 @@ import java.profile.*;
 
 public class Bio {
     String name           =   "Sai Vittal Battula";
-    String[] designations =   {"Founder", "Co-founder"};
-    String[] companies    =   {"Swattle", "MergeURL"};
-    String base           =   "Hyderabad, India";
+    String[] designations =   {"Founder", "Graduate Student of Electrical Engineering"};
+    String[] companies    =   {"Swattle", "Columbia University"};
+    String base           =   "Manhattan, New York, NY";
 }
 
 public class Stack {
-    String[] languages    =   {"Java", "C", "C++", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS", "Python", "C#"};
-    String[] databases    =   {"Firebase"};
-    String[] misc         =   {"macOS", "Linux", "Git", "Android", "iOS", "AngularJS", "Node.js", "React.js", "Unity", "DevOps"};
-    String[] ongoing      =   {"Kotlin"};
+    String[] languages    =   {"Java", "C/C++", "SystemC, "Verilog", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "HTML/CSS"};
+    String[] frameworks   =   {"React.js", "React Native", "AngularJS", "Node.js", "Express"}
+    String[] databases    =   {"Firebase", "MongoDB"};
+    String[] misc         =   {"Cadence Virtuoso", "Questa PropCheck", "Questa Sim", "Catapult HLS", "LTspice", "Fritzing", "Arduino", "Git", "Xcode", "Android Studio"};
+    String[] ongoing      =   {"VHDL", "System Verilog"};
 }
 
 public class Social {
+    String personal       =   "https://saivittalb.com";
     String github         =   "https://github.com/saivittalb";
     String twitter        =   "https://twitter.com/saivittalb";
-    String youtube        =   "https://youtube.com/saivittalb";
     String linkedin       =   "https://www.linkedin.com/in/saivittalb";
     String instagram      =   "https://www.instagram.com/saivittalb/";
 }
