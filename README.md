@@ -15,16 +15,15 @@ import java.profile.*;
 public class Bio {
     String name           =   "Sai Vittal Battula";
     String[] designations =   {"Founder", "Graduate Student of Electrical Engineering"};
-    String[] companies    =   {"Swattle", "Columbia University"};
-    String base           =   "Manhattan, New York, NY";
+    String[] affiliations =   {"Swattle", "Columbia University"};
+    String base           =   "New York, NY";
 }
 
 public class Stack {
-    String[] languages    =   {"Java", "C/C++", "SystemC, "Verilog", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "HTML/CSS"};
+    String[] languages    =   {"Verilog", "SystemVerilog", "SystemC", "C/C++", "Java", "Kotlin", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "HTML/CSS"};
     String[] frameworks   =   {"React.js", "React Native", "AngularJS", "Node.js", "Express"}
     String[] databases    =   {"Firebase", "MongoDB"};
     String[] misc         =   {"Cadence Virtuoso", "Questa PropCheck", "Questa Sim", "Catapult HLS", "LTspice", "Fritzing", "Arduino", "Git", "Xcode", "Android Studio"};
-    String[] ongoing      =   {"VHDL", "System Verilog"};
 }
 
 public class Social {
@@ -35,11 +34,6 @@ public class Social {
     String instagram      =   "https://www.instagram.com/saivittalb/";
 }
 ```
-
-<p align="center">
-  <a href="https://github.com/saivittalb/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="BuiltWithLove"></a>
-  <a href="http://forthebadge.com" target="_blank"><img src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg" alt="Electricity"></a>
-</p>
 
 <!--
 **saivittalb/saivittalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
