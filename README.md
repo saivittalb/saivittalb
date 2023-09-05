@@ -23,7 +23,7 @@ public class Stack {
     String[] languages    =   {"Verilog", "SystemVerilog", "SystemC", "C/C++", "Java", "Kotlin", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "HTML/CSS"};
     String[] frameworks   =   {"React.js", "React Native", "AngularJS", "Node.js", "Express"}
     String[] databases    =   {"Firebase", "MongoDB"};
-    String[] misc         =   {"Cadence Virtuoso", "Questa PropCheck", "Questa Sim", "Catapult HLS", "LTspice", "Fritzing", "Arduino", "Git", "Xcode", "Android Studio"};
+    String[] misc         =   {"Cadence Virtuoso", "ModelSim", "Questa PropCheck", "Catapult HLS", "LTspice", "Wireshark", "Fritzing", "Arduino IDE", "Git", "Xcode", "Android Studio"};
 }
 
 public class Social {
