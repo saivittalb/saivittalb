@@ -20,7 +20,7 @@ public class Bio {
 }
 
 public class Stack {
-    String[] languages    =   {"Verilog", "SystemVerilog", "SystemC", "C/C++", "Java", "Kotlin", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "HTML/CSS"};
+    String[] languages    =   {"SystemVerilog", "Verilog", "C/C++", "SystemC", "Java", "Python", "Kotlin", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS"};
     String[] frameworks   =   {"React.js", "React Native", "AngularJS", "Node.js", "Express"};
     String[] databases    =   {"Firebase", "MongoDB"};
     String[] tools        =   {"Cadence Virtuoso", "ModelSim", "Questa PropCheck", "Catapult HLS", "LTspice", "Wireshark", "Fritzing", "Arduino IDE", "Git", "Xcode", "Android Studio"};
