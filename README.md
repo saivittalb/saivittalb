@@ -20,18 +20,19 @@ public class Bio {
 }
 
 public class Stack {
-    String[] languages    =   {"SystemVerilog", "Verilog", "C/C++", "SystemC", "Java", "Python", "Kotlin", "Shell Script", "Perl", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS"};
+    String[] languages    =   {"SystemVerilog", "Verilog", "C/C++", "SystemC", "Java", "Python", "Kotlin", "Shell Script", "TCL", "MATLAB/Simulink", "Objective-C", "Swift", "JavaScript", "TypeScript", "HTML/CSS"};
+    String[] protocols    =   {"AXI4", "AXI4-Lite", "AHB", "AHB-Lite", "APB", "I2C", "UART", "SPI", "USB"}
+    String[] tools        =   {"Cadence Virtuoso", "Conformal", "Genus", "Innovus", "ModelSim", "Questa PropCheck", "hls4ml", "Vivado HLS", "Catapult HLS", "LTspice", "Wireshark", "Fritzing", "Arduino IDE", "Git", "Xcode", "Android Studio"};
     String[] frameworks   =   {"React.js", "React Native", "AngularJS", "Node.js", "Express"};
     String[] databases    =   {"Firebase", "MongoDB"};
-    String[] tools        =   {"Cadence Virtuoso", "ModelSim", "Questa PropCheck", "hls4ml", "Vivado HLS", "Catapult HLS", "LTspice", "Wireshark", "Fritzing", "Arduino IDE", "Git", "Xcode", "Android Studio"};
     String[] os           =   {"macOS", "Linux", "iOS", "Android"};
 }
 
 public class Social {
     String personal       =   "https://saivittalb.com";
+    String linkedin       =   "https://www.linkedin.com/in/saivittalb";
     String github         =   "https://github.com/saivittalb";
     String twitter        =   "https://twitter.com/saivittalb";
-    String linkedin       =   "https://www.linkedin.com/in/saivittalb";
     String instagram      =   "https://www.instagram.com/saivittalb/";
 }
 ```
